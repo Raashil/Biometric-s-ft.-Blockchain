@@ -1,2 +1,5 @@
 # Biometric-s-ft.-Blockchain
 Final Year Project
+Block-chain is a distributed immutable ledger technology. It is consisting of blocks, and each block contains multiple transactions. Block-chain consists of a secure hash, timestamp, data of the current block, and the hash value of the previous block. Block- chain records all transactions across the network so that it cannot be altered retroactively without the alteration of all subsequent blocks and the consensus of the network.
+Biometric identification system usage has increased as it provides an auspicious way to identify users. While compared with traditional authentication methods Biometric is more reliable and convenient. Block-chain was designed initially to solve double spending problems in peer-to-peer payment system of Bitcoin.
+But, since then its applications gone through the original intended use because of its properties, i.e., decentralization, immutability, no trusted authority, and auditability. In this project it proposes how this Block-chain technology can have applied in biometric identification scheme like Aadhar in cloud server-to make Aadhar more transparent.
